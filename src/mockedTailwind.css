@@ -1,0 +1,67 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+/* imagine these are Tailwind classes */
+
+.flex {
+	display: flex;
+}
+
+.g-1 {
+	gap: 1rem;
+}
+
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.box {
+	border-radius: 2rem;
+	padding: 1rem;
+	border: 1px solid gray;
+}
+
+.mw-300 {
+	max-width: 300px;
+}
+
+.red {
+	background-color: tomato;
+}
+
+.green {
+	background-color: greenyellow;
+}
+
+.blue {
+	background-color: dodgerblue;
+}
+
+.t-black {
+	color: black;
+}
+
+.t-white {
+	color: white;
+}
+
+.b-gray {
+	border-color: gray;
+}
+
+.b-black {
+	border-color: black;
+}
+
+.b-red {
+	border-color: red;
+}
